@@ -1,0 +1,324 @@
+.tot{
+	height: 3000px;
+	width: 1500px;
+	background-color:white ;
+}
+.first{
+	height:400px;
+	width: 1500px;
+	margin-top: 20px;
+	background-color: whitesmoke;
+}
+#left{
+	height: 400px;
+	width:750px;
+	background-color:white ;
+	float: left;
+}
+#a{
+	color:#a084e8;
+	font-size: 55px;
+	padding-top: 60px;
+	text-align: center;
+}
+#b{
+	padding-left: 150px;
+	
+}
+#c{
+	height: 40px;
+	width: 150px;
+	margin-left: 150px;
+	color:white;
+	background-color: blue;
+	text-align: center;
+	border:none;
+}
+#right{
+	height: 400px;
+	width: 750px;
+	background-color: green;
+	float: left;
+}
+#d{
+	height: 400px;
+	width: 750px;
+
+}
+.second{
+	height: 600px;
+	width: 1500px;
+	background-color: #8062D6 ;
+}
+#e{
+	color: white;
+	font-size: 40px;
+	text-align: center;
+}
+#f{
+	color: white;
+	text-align: center;
+}
+.one{
+  height: 400px;
+  width: 300px;
+  background-color: white;
+  margin-left:150px;
+  float: left;
+  border-radius: 10px;
+}
+.two{
+   height: 400px;
+  width: 300px;
+  background-color: white;
+  margin-left:150px;
+  float: left;
+  border-radius: 10px;
+}
+.three{
+   height: 400px;
+  width: 300px;
+  background-color: white;
+  margin-left:150px;
+  float: left;
+  border-radius: 10px;
+}
+#g{
+	padding-top: 20px;
+	color:#8062D6 ;
+	text-align: center;
+	font-size: 35px;
+}
+#f{
+	padding-top: 30px;
+	color: #8062D6 ;
+	text-align: center;
+	font-size: 20px;
+}
+#h{
+	margin-left: 100px;
+	height: 30px;
+	width: 100px;
+	color: #8062D6;
+	text-align: center;
+	border-color:#8062D6 ;
+	background-color: white;
+}
+.third{
+	height: 600px;
+	width: 1500px;
+	background-color: white;
+
+}
+.l{
+	height: 600px;
+	width: 750px;
+	background-color: yellow;
+	float: left;
+}
+.r{
+	height: 600px;
+	width: 750px;
+	background-color:white;
+	float: left;
+}
+#x{
+	height: 600px;width: 750px;
+}
+#i{
+	padding-left: 30px;
+	letter-spacing: 5px;
+	color: #8062D6;
+}
+#j{
+	padding-left: 30px;
+	font-size: 60px;
+}
+#k{
+	padding-left: 30px;
+	font-size: 30px;
+}
+.four{
+	height: 800px;
+	width: 1500px;
+	background-color: lightgray;
+}
+#m{
+	font-size: 50px;
+	color:#8062D6 ;
+	text-align: center;
+	padding-top: 30px;
+}
+#n{
+	text-align: center;
+}
+.df{
+   height: 150px;
+   width: 1200px;
+   margin-left: 200px;
+   margin-top: 20px;
+   background-color: whitesmoke;
+   border-radius: 15px;
+}
+#LL{
+	height: 50px;width: 50px;
+	 
+	float: left;
+}
+#LLL{
+	height: 60px;width: 1000px;
+	float: right;
+}
+.dm{
+  height: 150px;
+   width: 1200px;
+   margin-left: 200px;
+   margin-top: 20px;
+   background-color: white;
+   border-radius: 15px;
+}
+.dl{
+   height: 150px;
+   width: 1200px;
+   margin-left: 200px;
+   margin-top: 20px;
+   background-color: #8062D6;
+   border-radius: 15px;
+}
+#o{
+	margin-left: 5px;
+	font-size: 70px;
+	display: inline;
+	color: blue;
+}
+#O{margin-left: 5px;
+	font-size: 25px;
+	display: inline;
+
+}
+#q{margin-left: 10px;
+	font-size: 70px;
+	color: blue;
+
+}
+#p{
+	margin-left: 10px;
+	font-size: 70px;
+	color: white;
+}
+#PP{height: 50px;width: 50px;
+	 
+	float: left
+
+}
+#PPP{height: 60px;width: 1000px;
+	float: right;
+
+}
+#PPPP{margin-left: 5px;
+	font-size: 25px;
+	display: inline;
+
+}
+#MM{height: 50px;width: 50px;
+	 
+	float: left
+
+}
+#MMM{height: 60px;width: 1000px;
+	float: right;
+
+}
+#MMMM{margin-left: 5px;
+	font-size: 25px;
+	display: inline;
+
+}.five{
+	height: 800px;
+	width: 1400px;
+	background-color: lightgray;
+}
+#F{
+	height: 400PX;
+	width: 600px;
+	border: 1px;
+	float: left;
+}
+#FF{
+	font-size: 40PX;
+	color: BLACK;
+}
+#FFF{height: 400px;
+	width: 700px;
+	border-radius: 1px;
+	display: inline;
+}
+#FFFF{
+	display: inline;
+	color: black;
+	font-size: 20px;
+}
+#XX{
+	height:400px;
+	width: 750px;
+	float: right;
+}
+.six{
+	height: 800px;
+	width: 1400px;
+} 
+#R{height: 400px;
+	width: 1500px;
+
+}
+#dd{
+	height:400px;width: 400px;
+	color: white;
+	position:relative;
+}
+.seven{
+	height: 400px;width: 1500px;
+	background-color: white;
+}
+.SE{
+	height: 300px;width: 500px;
+	margin-left: 200px;
+	margin-top: 70px;
+	margin-bottom: 70px;
+	float: left;
+}
+#SE1{
+	font-size: 50PX;
+	color: blue;
+	display: inline;
+}
+#SE2{
+	display: inline;
+}
+.se{
+	height: 300px;width: 500px;
+	margin-right: 200px;
+	margin-top: 60px;
+	margin-bottom: 70px;
+	float: right;
+}
+#se1{
+	font-size: 50px;
+	color: blue;
+}
+#se2{
+	color: black;
+}
+.what{
+	color: blue;
+}
+.eight{
+	height: 200px;width: 1500px;
+	background-color: blue;
+	margin-bottom: 30px;
+}
+#eig{
+	font-size: 40px;
+	color: white;
+	padding-top: 40px;
+}
